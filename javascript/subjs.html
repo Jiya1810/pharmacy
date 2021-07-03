@@ -1,0 +1,23 @@
+<!DocumentType>
+<html>
+    <head>
+        <title>subjs
+        </title>
+        <script>
+            function sub()
+            {
+                var a,b,c;
+                a=Number(document.getElementById("first").value);
+                b=Number(document.getElementById("second").value);
+                c=a-b;
+                document.getElementById("ans").value=c;
+            }
+</script>
+    </head>
+    <body >
+        enter the first number: <input id="first">
+        enter the first number: <input id="second">
+        <button onclick="sub()">Subtract</button>
+        <input id="ans">
+    </body>
+</html>

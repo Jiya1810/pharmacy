@@ -1,0 +1,29 @@
+.box
+{
+    
+  margin-top: 60px;
+    width: 1px;
+ background-color:whitesmoke;
+
+}
+
+.digits
+
+{
+   text-align: center;
+    width: 83px;
+    height:122px;
+    background-color: darkslategrey;
+}
+.table
+{
+    color:white;
+}
+
+button
+{ 
+    width: 25px;
+    height:20px;
+    color:black;
+    
+}

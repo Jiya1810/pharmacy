@@ -1,0 +1,112 @@
+h1{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: large;
+color: rgb(155, 99, 207);
+}
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;   
+    color: black;
+}
+.box{
+    background-color: antiquewhite;
+    width: 98%;
+    height:auto;
+    padding: 5px;
+    
+    
+}
+form{
+    font-size: x-small;
+    background-image:url(https://img.freepik.com/free-photo/pharmacy-drugstore-product-pile-orange-white-tablets-pill-gradient-background-different-size-shape-tablets-pills-pharmaceutical-industry-medicine-hospital-retail-drug-market_33867-269.jpg?size=626&ext=jpg) ;
+    align-items: center;
+    text-align: center;
+    width: 94%;
+    
+    background-size: 130%;
+background-repeat: no-repeat;
+padding: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: black;
+
+}
+
+input,textarea 
+{
+    border: 3px;   
+    border-color: black; 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 60%;
+    border-radius: 3px;
+    padding:10px;
+    font-size: xx-small;
+} 
+.button {
+    background-color: #38c23d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {
+    background-color:red; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  /*css for second page*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  .box1{
+    background-color:khaki;
+    width: 98%;
+    height:auto;
+    padding: 5px;
+  }
+.new
+  {
+    background-image:url(https://cdn.wallpapersafari.com/33/84/B0Zocq.png);
+  
+  }

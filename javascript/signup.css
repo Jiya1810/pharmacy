@@ -1,0 +1,55 @@
+input[type=text], input[type=password] ,input[type=number],input[type=email]{
+
+    font-size: small;
+    width: 70%;
+    padding: 15px;
+    margin: 4px 0 10px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  .btn {
+      margin-left: 10vh;
+      width:200px;
+      height: 30px;
+    background-color: #4CAF50;
+    color: whitesmoke;
+    padding: 6px 16px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+
+  }
+  .topnav 
+{
+font-size: small;
+
+width: 70px;
+height:300px;
+background-color: black;
+position: fixed;
+}
+.topnav a 
+{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+  
+  input[type=text]:focus, input[type=password]:focus,input[type=number]:focus,input[type=email]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  .box
+  {
+    background-color:rgb(184, 96, 14);   
+     margin-left: 35%;
+      margin-top:2%;
+      font-size: smaller;
+      padding:15px;
+      color: white;
+      width:30%;
+      height:85vh;
+  }

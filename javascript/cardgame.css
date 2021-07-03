@@ -1,0 +1,83 @@
+.box1
+{
+    margin-top:10px;
+    margin-left: 2px;
+    width:60.5px;
+    height:60.5px;
+    align-items: center;
+    background-color: aliceblue;
+}
+.box3
+{
+    margin-top:70px;
+    width:60.5px;
+    height:60px;
+    align-items: center;
+    background-color: aliceblue;
+}
+.box2
+{
+    margin-top: -60px;
+    margin-left: 150px;
+    width:60px;
+    height:60.5px;
+    align-items: center;
+    background-color: aliceblue;
+}
+.box4
+{
+    margin-top: -60px;
+    margin-left: 150px;
+    width:60px;
+    height:60px;
+    align-items: center;
+    background-color: aliceblue;
+}
+.before
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/bg.jpeg")no-repeat;
+}
+.after
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/image2.jpeg")no-repeat;
+}
+.before1
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/bg.jpeg")no-repeat;
+}
+.after1
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/image2.jpeg")no-repeat;
+}
+.before2
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/bg.jpeg")no-repeat;
+}
+.after2
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/image2.jpeg")no-repeat;
+}
+.before3
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/bg.jpeg")no-repeat;
+}
+.after3
+{
+ width: 60px;
+ height:60px;
+ background: url("../image/image2.jpeg")no-repeat;
+}

@@ -1,0 +1,52 @@
+.topnav a 
+{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+.ff{
+    font-size: x-small;
+    width: 750px;
+    height: 200px;
+    background-color: whitesmoke;
+}
+* {
+    
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+ color: black;
+     background-color: whitesmoke;
+    float: left;
+    width: 18%;
+    padding: 10px;
+    height: 215px; 
+  }
+body{
+    background-color:cornsilk;
+}
+.topnav 
+{
+font-size: small;
+display:inline;
+width: 750px;
+height:40px;
+background-color: black;
+position: fixed;
+}
+.last
+{
+margin-top: 10vh;
+font-size:xx-small;
+color:black;
+width: 750px;
+height:350px;
+background-color : white;
+margin-left: 0%;
+
+}
